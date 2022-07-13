@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		146E7AC44D2B1DBEF03809C3 /* Pods_SuperHeros_SuperHerosUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1445D89FCE7D7D143932319D /* Pods_SuperHeros_SuperHerosUITests.framework */; };
 		37012908286EEC7B009347DF /* UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37012907286EEC7B009347DF /* UIImageView.swift */; };
 		3701290D286F1811009347DF /* SuperHeroDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3701290C286F1811009347DF /* SuperHeroDetailViewController.swift */; };
 		3701290F286F182E009347DF /* SuperHeroDetail.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3701290E286F182E009347DF /* SuperHeroDetail.storyboard */; };
@@ -53,8 +52,6 @@
 		37BBD1DA2878311E005DABC9 /* MarvelCharacterListRepositoriesMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BBD1D92878311E005DABC9 /* MarvelCharacterListRepositoriesMock.swift */; };
 		37D0C707287D8C260035FBD8 /* SuperheroListBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D0C706287D8C260035FBD8 /* SuperheroListBuilder.swift */; };
 		37D0C70F287D9EF60035FBD8 /* SuperHeroDetailBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D0C70E287D9EF60035FBD8 /* SuperHeroDetailBuilder.swift */; };
-		7E756E60E119C89BCF7581BA /* Pods_SuperHeros.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 927C197BDDDC3835795ED40D /* Pods_SuperHeros.framework */; };
-		9617509BB9D0343B03065600 /* Pods_SuperHerosTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8182397F1F67090AE31C10E /* Pods_SuperHerosTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,7 +72,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1445D89FCE7D7D143932319D /* Pods_SuperHeros_SuperHerosUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuperHeros_SuperHerosUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37012907286EEC7B009347DF /* UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageView.swift; sourceTree = "<group>"; };
 		3701290C286F1811009347DF /* SuperHeroDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperHeroDetailViewController.swift; sourceTree = "<group>"; };
 		3701290E286F182E009347DF /* SuperHeroDetail.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SuperHeroDetail.storyboard; sourceTree = "<group>"; };
@@ -125,14 +121,6 @@
 		37BBD1D92878311E005DABC9 /* MarvelCharacterListRepositoriesMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MarvelCharacterListRepositoriesMock.swift; sourceTree = "<group>"; };
 		37D0C706287D8C260035FBD8 /* SuperheroListBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperheroListBuilder.swift; sourceTree = "<group>"; };
 		37D0C70E287D9EF60035FBD8 /* SuperHeroDetailBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuperHeroDetailBuilder.swift; sourceTree = "<group>"; };
-		40AD565C05F50D3820E34759 /* Pods-SuperHerosTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuperHerosTests.release.xcconfig"; path = "Target Support Files/Pods-SuperHerosTests/Pods-SuperHerosTests.release.xcconfig"; sourceTree = "<group>"; };
-		4EE45B497485D7247A6E3F09 /* Pods-SuperHerosTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuperHerosTests.debug.xcconfig"; path = "Target Support Files/Pods-SuperHerosTests/Pods-SuperHerosTests.debug.xcconfig"; sourceTree = "<group>"; };
-		7775F0C3243B8F3AB9367018 /* Pods-SuperHeros-SuperHerosUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuperHeros-SuperHerosUITests.debug.xcconfig"; path = "Target Support Files/Pods-SuperHeros-SuperHerosUITests/Pods-SuperHeros-SuperHerosUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		8AC98D02055501E243716BDF /* Pods-SuperHeros.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuperHeros.debug.xcconfig"; path = "Target Support Files/Pods-SuperHeros/Pods-SuperHeros.debug.xcconfig"; sourceTree = "<group>"; };
-		8E5BD0A1B111E680AAB73A85 /* Pods-SuperHeros-SuperHerosUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuperHeros-SuperHerosUITests.release.xcconfig"; path = "Target Support Files/Pods-SuperHeros-SuperHerosUITests/Pods-SuperHeros-SuperHerosUITests.release.xcconfig"; sourceTree = "<group>"; };
-		927C197BDDDC3835795ED40D /* Pods_SuperHeros.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuperHeros.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA6C2C5955E97043DD24D47B /* Pods-SuperHeros.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuperHeros.release.xcconfig"; path = "Target Support Files/Pods-SuperHeros/Pods-SuperHeros.release.xcconfig"; sourceTree = "<group>"; };
-		E8182397F1F67090AE31C10E /* Pods_SuperHerosTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuperHerosTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,7 +128,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E756E60E119C89BCF7581BA /* Pods_SuperHeros.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,7 +135,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9617509BB9D0343B03065600 /* Pods_SuperHerosTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -156,7 +142,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				146E7AC44D2B1DBEF03809C3 /* Pods_SuperHeros_SuperHerosUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,7 +192,6 @@
 				376C05FC286D6D5C0066653F /* SuperHerosUITests */,
 				376C05DA286D6D5A0066653F /* Products */,
 				B02D55EC29CA459A46FF02B6 /* Pods */,
-				8F40710E8351E2579E898BAD /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -524,25 +508,9 @@
 			path = Builder;
 			sourceTree = "<group>";
 		};
-		8F40710E8351E2579E898BAD /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				927C197BDDDC3835795ED40D /* Pods_SuperHeros.framework */,
-				1445D89FCE7D7D143932319D /* Pods_SuperHeros_SuperHerosUITests.framework */,
-				E8182397F1F67090AE31C10E /* Pods_SuperHerosTests.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		B02D55EC29CA459A46FF02B6 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8AC98D02055501E243716BDF /* Pods-SuperHeros.debug.xcconfig */,
-				DA6C2C5955E97043DD24D47B /* Pods-SuperHeros.release.xcconfig */,
-				7775F0C3243B8F3AB9367018 /* Pods-SuperHeros-SuperHerosUITests.debug.xcconfig */,
-				8E5BD0A1B111E680AAB73A85 /* Pods-SuperHeros-SuperHerosUITests.release.xcconfig */,
-				4EE45B497485D7247A6E3F09 /* Pods-SuperHerosTests.debug.xcconfig */,
-				40AD565C05F50D3820E34759 /* Pods-SuperHerosTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -554,11 +522,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 376C0603286D6D5C0066653F /* Build configuration list for PBXNativeTarget "SuperHeros" */;
 			buildPhases = (
-				4208095504D2286F2041762E /* [CP] Check Pods Manifest.lock */,
 				376C05D5286D6D590066653F /* Sources */,
 				376C05D6286D6D590066653F /* Frameworks */,
 				376C05D7286D6D590066653F /* Resources */,
-				C813C93D3D602DEADDDDDE98 /* [CP] Embed Pods Frameworks */,
 				379DC8A32875769C00E5F794 /* ShellScript */,
 			);
 			buildRules = (
@@ -574,11 +540,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 376C0606286D6D5C0066653F /* Build configuration list for PBXNativeTarget "SuperHerosTests" */;
 			buildPhases = (
-				F354CE245B40B937529C8C7B /* [CP] Check Pods Manifest.lock */,
 				376C05EB286D6D5C0066653F /* Sources */,
 				376C05EC286D6D5C0066653F /* Frameworks */,
 				376C05ED286D6D5C0066653F /* Resources */,
-				09B04085127674D6DBB885A2 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -594,11 +558,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 376C0609286D6D5C0066653F /* Build configuration list for PBXNativeTarget "SuperHerosUITests" */;
 			buildPhases = (
-				1C42139856E2F4F820C3BDDD /* [CP] Check Pods Manifest.lock */,
 				376C05F5286D6D5C0066653F /* Sources */,
 				376C05F6286D6D5C0066653F /* Frameworks */,
 				376C05F7286D6D5C0066653F /* Resources */,
-				DF127F123DCFBC9901B109C0 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -683,45 +645,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		09B04085127674D6DBB885A2 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SuperHerosTests/Pods-SuperHerosTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SuperHerosTests/Pods-SuperHerosTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SuperHerosTests/Pods-SuperHerosTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		1C42139856E2F4F820C3BDDD /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SuperHeros-SuperHerosUITests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		379DC8A32875769C00E5F794 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -738,84 +661,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n${PODS_ROOT}/SwiftLint/swiftlint\n";
-		};
-		4208095504D2286F2041762E /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SuperHeros-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C813C93D3D602DEADDDDDE98 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SuperHeros/Pods-SuperHeros-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SuperHeros/Pods-SuperHeros-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SuperHeros/Pods-SuperHeros-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		DF127F123DCFBC9901B109C0 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SuperHeros-SuperHerosUITests/Pods-SuperHeros-SuperHerosUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SuperHeros-SuperHerosUITests/Pods-SuperHeros-SuperHerosUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SuperHeros-SuperHerosUITests/Pods-SuperHeros-SuperHerosUITests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F354CE245B40B937529C8C7B /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SuperHerosTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -1032,7 +877,6 @@
 		};
 		376C0604286D6D5C0066653F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8AC98D02055501E243716BDF /* Pods-SuperHeros.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1045,6 +889,7 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1060,7 +905,6 @@
 		};
 		376C0605286D6D5C0066653F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA6C2C5955E97043DD24D47B /* Pods-SuperHeros.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1073,6 +917,7 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1088,7 +933,6 @@
 		};
 		376C0607286D6D5C0066653F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4EE45B497485D7247A6E3F09 /* Pods-SuperHerosTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1108,7 +952,6 @@
 		};
 		376C0608286D6D5C0066653F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 40AD565C05F50D3820E34759 /* Pods-SuperHerosTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -1128,7 +971,6 @@
 		};
 		376C060A286D6D5C0066653F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7775F0C3243B8F3AB9367018 /* Pods-SuperHeros-SuperHerosUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -1146,7 +988,6 @@
 		};
 		376C060B286D6D5C0066653F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8E5BD0A1B111E680AAB73A85 /* Pods-SuperHeros-SuperHerosUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
