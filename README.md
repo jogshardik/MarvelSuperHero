@@ -4,7 +4,7 @@ This application created for demo purpose to list down the superhero of marvel c
 
 Herolist Screen             |  Hero Detail
 :-------------------------:|:-------------------------:
-![Screenshot](screenshot1.png)  |  ![Screenshot](screenshot2.png)
+![Screenshot](screenshots/screenshot1.png)  |  ![Screenshot](screenshots/screenshot2.png)
 
 ## Installation & How to Run
 
